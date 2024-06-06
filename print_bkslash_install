@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo chmod 755 print_bkslash
+sudo cp print_bkslash /usr/bin
+echo -e "\e[40m    \e[0m print backslash installed \e[40m    \e[0m"

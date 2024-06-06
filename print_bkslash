@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo -e "\e[41m    "
+echo -e "\e[0m    \e[44m    "
+echo -e "\e[0m        \e[41m    "
+echo -e "\e[0m            \e[44m    "
+echo -e "\e[0m"
